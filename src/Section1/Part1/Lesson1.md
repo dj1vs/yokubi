@@ -1,49 +1,49 @@
-# State of being with だ and です
+# Состояние бытия с だ и です
 
-Let's start from sentences in the shape of "A is B". Japanese has two basic "is" words. The grammar term for such words is "copula". Copulas have a dedicated term because they're special verb-like things.
+Давайте начнём с предложений вида "А есть Б". В японском есть два базовых эквивалента для "есть" (или "быть"). Грамматический термин для таких слов - это "связка". Связка - это отдельный термин, потому что это особые штуки типа глаголов.
 
-The two copulas in Japanese are だ and です. です is more polite than だ. Despite both being copulas, their usage can be flexible and sometimes optional; you can omit them entirely while still implying an "A is B" type of relationship in your sentences. Especially だ is usually omitted at the end of conversational sentences in modern Japanese.
+Эти две связки в японском - だ и です. です считается более вежливывым, чем だ. Несмотря на то, что оба этих слова - связки, их использование может быть подвижным и иногда опциональным; вы можете полностью опускать их, даже когда вы подразумеваете тип отношения "А есть Б" в вашем предложении. Особенно だ обычно пропускается в конце разговорных предложений в современном японском.
 
-Unlike English, the state-of-being word goes **after** the word that you're using to describe something, rather than before it. We will see that this applies to most modifier words in Japanese: they apply to the word on their **left**.
+В отличие от, например, английского (с его `am`, `is` и т.д.), в японском слово сотояния бытия следует **после** используемого слово, которое вы используете чтобы описать что-то, а не перед ним. Мы ещё увидим, что это относится к большинству слов-модификаторов в японском: они применяется к слову **слева** от них. 
 
 <pre>
 ペンだ。
-It's a pen.
+Это ручка.
 
 ネコです。
-It is a cat.
+Это кот.
 </pre>
 
-The difference between だ and です is generally a matter of politeness and formality. One thing that is important to remember is that while です is the polite version of だ, the two aren't always interchangeable and have a lot of different uses. You cannot always freely replace だ for です (or vice-versa). You will learn some of those uses in later lessons.
+Различия между だ и です - это обычно вопрос вежливости или формальности разговора. Но есть одна вещь, которую важно запомнить: в то время, как です - это вежливый эквивалент だ, эти два слова не всегда взаимозаменяемы и имеют много разных применений. Вы не можете всегда спокойно менять местами だ и です. Вы узнаете о разных сценариях использованиях этих слов в дальнейшних уроках.
 
-Later you will also see です get used in places where English wouldn't allow "is". This is because it can even act just like a filler word with no added meaning.
+Иногда です даже может использоваться просто как междометие без особого значения.
 
-To state that something is *not*, we turn the だ into ではない and です into ではありません. In speech the では gets slurred into じゃ so じゃない and じゃありません are more common. We will look at what this では does in a later lesson. There exists an alternative to ではありません which is just adding です after ではない/じゃない, the meaning is the same.
+Чтобы заявить, что что-то *не является*, мы превращаем だ в ではない и です в ではありません. В речи では сокращается до じゃ, поэтому じゃない и じゃありません встречаются более частно. Мы узнаем, зачем нужен этот では в дальнейших уроках. Ещё есть альтернатива ではありません, которая заключается в простом добавлении です после ではない/じゃない - значение остаётся тем же.
 
 <pre>
 人じゃない
-It's not a person
+Это не человек.
 
 本じゃないです or 本ではありません
-It is not a book (polite)
+Это не книга. (вежливо)
 </pre>
 
-Japanese has two basic tenses: the plain tense and the past tense. Since dictionaries list verbs by their plain tense, it's also sometimes called the "dictionary form". In this context, "form" and "tense" are interchangeable. 
+В японском есть две базовых формы: начальная форма и форма прошедшего времени. Так как словари содержат глаголы в их начальной форма, это также иногда называют "словарной формой".
 
-The past form of だ is だった. The past form of です is でした.
+Прошедшая форма だ это だった. Прошедшая форма です - это でした.
 
 <pre>
 オレだった！ 
-It was me! (casual)
+Это был я! (разговорное)
 
 そうでした
-That was so. (polite)
+Это было так. (вежливо)
 </pre>
 
-The dictionary form is usually called the present tense or the non-past tense. It's important to remember that it can be used in a lot of situations. Present tense and non-past tense are reasonable names, but don't treat names like rules, sometimes names are confusing. This guide will be using these names interchangeably.
+Словарную форму также часто называют формой настоящего времени или формой непрошедшего времени. Важно помнить, что это может использоваться во множестве ситуаций. Форма настоящего времени и форма непрошедшего времени называются так не просто так, но не стоит воспринимать эти названия как правила, иногда такие названия могут вас запутать. Этот гайд будет в дальнейшем использовать только эти обозначения.
 
-The plain form and past tense usually line up with the English present and past tenses, but they're not used in all the same places. Just remember that English and Japanese often use tenses in very different ways.
+Начальная форма и форма прошедшего времени обычно соответствуют настоящему и прошедшему времени в японском, но они не всегда используются ровно в тех же ситуациях. Просто запомните, что русский и японский часто используют формы слов по-разному.
 
-In Japanese, ordinary statements about the future use the plain form most of the time. This is where the name "non-past" comes from.
+В японском, обычные предложения о будущем почти всегда используют начальную форму. Отсюда и появилось названия "форма непрошедшего времени".
 
-Sometimes the past tense can also be used for things that are already completed like "has become", even if they're hypothetical and haven't happened yet. You might also hear it called "completed tense" or "completed form".
+Иногда форма прошедшего времени тоже может использоваться для вещей, который уже были выполнены, как, например, "стал" (по сравнению со "становился"), даже когда они только гипотетические и ещё не произошли. Вы можете также увидеть что где-то это называется "завершённой формой".
