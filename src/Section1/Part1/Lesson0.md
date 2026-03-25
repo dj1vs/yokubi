@@ -1,28 +1,27 @@
-# The anatomy of Japanese sentences
+# Строение предложений на японском
 
-When you approach the study of a new language, especially one like Japanese that does not use spaces to show word boundaries, your biggest source of confusion is going to be how to correctly separate the different parts of each sentence to more easily digest and understand them. We call this activity "parsing".
+Когда вы начинаете учить новый язык, особенно такой как японский - который не использует пробелы, чтобы разделять слова - самой большой вашей проблемой будет то, как правильно разделять разные части каждого предложения, чтобы легче усвоить и понять их. Мы называем это "парсингом".
 
-No matter what, if you cannot "parse" a sentence, you will not understand its meaning. If you do not understand its meaning, you cannot acquire the language used in it. This lesson will give you a very brief and quick rundown of what to expect to achieve basic "parsing" abilities.
+Ничего не изменит того факта, что если вы не можете "распарсить" предложение, вы не сможете понять его значения. Если вы не можете понять значение, вы не можете обучиться языку, который в этом предложении используется. В этом уроке мы кратко и быстро пробежимся по тому, чего следует ожидать, чтобы освоить базовые способности к "парсингу".
 
-Japanese is an SOV language (Subject-Object-Verb), unlike English which is an SVO (Subject-Verb-Object) one. 
-
-<pre>
-English: I eat (an) apple
-Japanese: I apple eat
-</pre>
-
-It may seem weird at first, but you will get used to this "backwards" structure in no time as you get exposed to more and more language. Also, plenty of exceptions exist, this order is not a rule but a general recommendation. 
-
-Japanese has two general formations. Almost every sentence will be in the shape of "A is B" or "A does B". Or, following Japanese order, "A B is" and "A B does". We will see in the next lesson how to make "A B is" type sentences, and later we will learn "A B does" ones too. Then, we will learn how to connect and chain them together.
-
-Another specific aspect of Japanese is that it is a pro-drop language. What this means is that anything that can be implied or understood from the context can be omitted. For example, if it is obvious who the subject is, we don't need to state it again. "Apple eat" is a completely fine sentence, as long as we know the subject it refers to is "I".
-
-
-This is because Japanese is a "topic" driven language. Most Japanese conversations begin by setting the stage of what is being talked about, and then add more details with every new statement that relates back to the topic. When the focus shifts, we change the topic by raising a new one. Being able to identify and keep track of how the topic changes is fundamental to get a good "parse" on a sentence. 
+Японский - это язык, работающий по модели SOV (Subject-Object-Verb, или Субъект-Объект-Глагол), в отличие от более привычной рускоговорящему человеку модели SVO (Subject-Verb-Object, или Субъект-Глагол-Объект).
 
 <pre>
-English: "I ate an apple then drank some water. What did you do?"
-Japanese: "<b>About me</b>, apple ate. Later, water drank. <b>About you</b>?"
+Русский: Я ем яблоко (нейтральный вариант)
+Japanese: Я яблоко ем (на русском языке выглядит непривычно, хотя технически иногда и может использоваться)
 </pre>
 
-It sounds like backwards caveman speak, but that's just because representing Japanese structure in English is incredibly silly. This is the only example in the entire guide where we'll be writing unnatural English as a comparison with Japanese. You should not think about Japanese this way. You need to think of Japanese in Japanese, because Japanese is not English. 
+Сначала это может показаться странным, но вы привыкнете к этой структуре довольно быстро по мере того, как будете больше знакомиться с языком. Вдобавок к этому, существует довольно много исключений, так что этот порядок слов - это больше общая рекомендация, чем правило.
+
+В японском есть две основных структуры предложений. Почти каждое предложение будет соответствовать шаблону "А есть Б", или "А делает Б". Или, если полностью повторять японский порядок слов, "А Б есть", или "А Б делает". Мы увидим в следующем уроке, как составлять предложения по типу "А Б есть", а потом мы выучим и "А Б делает". Далее мы научимся соединять их между собой и выстраивать из них цепочки предложений.
+
+Другой специфичный аспект японского (который, впрочем, не сильно тяжело освоить носителю русского языка) - это то, что он относится к языкам с пропуском подлежащего. Это значит, что всё, что может подразумеваться из контекста, или что очевидно из контекста, может быть опущено. Например, если очевидно, кто выступает в предложении как субъект, нам не нужно повторять это снова. "Яблоко ест" - это полноценное предложение на японском, при условии, что очевидно, о ком идёт речь (например, "он", "она", "друг" и т.д.).
+
+Это происходит из-за того, что японский - это язык, ориентированный на "тему". Большинство разговоров на японском начинается с обозначения того, о чём будет идти дальнейшее обсуэжение, после чего с каждым новым предложением добавляется всё больше деталей, которые всё больше раскрывают начальную тему. Когда фокус разговора смещается, можно сменить тему, обозначив новую. Умение определять и отслеживать то, как меняется тема в разговоре - это фундаментальный навык для обучения "парсингу" предложения.
+
+<pre>
+Русский: "Я съел яблоко и затем выпил немного воды. А что ты делал?"
+Японский: "<b>Что касается меня</b>, ел яблоко. Позже, воду пил. <b>Что насчёт тебя</b>?"
+</pre>
+
+Это немного похоже на разговор пещерных людей, но только из-за того, что мы дословно переводим структуру японского предложения на русский. Это только один пример из целого гайда, где мы будем писать синтетические предложения на русском для сравнения с японским. Не нужно думать, что японцы действительно так разговаривают. Вы должны думать о японском на японском, потому что японский - это не русский.
