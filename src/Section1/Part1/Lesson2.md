@@ -1,48 +1,48 @@
-# Nouns, pronouns
+# Существительные, местоимения
 
-Japanese has nouns (名詞) and pronouns (代名詞), just like English. Pronouns are less special than in English, and act just like normal nouns most of the time.
+В японском есть существительные (名詞) и местоимения (代名詞), как и в русском языке. Местоимения почти всегда используются просто как существительные, что в целом похоже на русский язык.
 
-Most of the time, Japanese does not distinguish between singular and plural. Nouns and verbs don't have to agree for plurality, person, or gender. Japanese can explicitly refer to a group by attaching certain suffixes to nouns, but none of them are a true plural. They are often used to convey extra information that normal plurals don't have.
+В большинстве случаев, в японском нет разделения на единственное и множественное число. Существительные и глаголы не должны согласовываться по единственному или множественному числу, роду, лицу и т.д. Японский может отдельно обращаться к группе людей, добавляя определённые суффиксы к существительным, но ни одно из таких преобразованных существительных не будет по-настоящему находиться во множественном числе. Они обычно используются, чтобы передать дополнительную информацию, которую не передают обычные слова во множественном числе.
 
-Japanese has tons of personal pronouns (me, you, them) that English doesn't, but the demonstrative pronoun system (this, that, these, those) is much less irregular. In addition, Japanese pronouns never change form for cases like English ones do (he vs him). You can just put suffixes on them.
+В японском есть огромное число местоимений (я, ты, они), которых нет в русском. Также, в японском местоимения никогда не изменяются по форме или падежу так же, как они изменяются в русском (он vs его). Можно просто добавлять к ним суффиксы.
 
-Here are some examples. Don't bother memorizing these word lists. Learn words outside of this guide.
-
-<pre>
-私・わたし me (normal, slightly formal when men use it)  
-あたし me (casual, feminine)  
-俺・おれ me (casual, masculine)  
-僕・ぼく me (casual or polite, masculine)  
-彼・かれ him  
-彼女・かのじょ her  
-あなた you
-</pre>
-
-As mentioned earlier, Japanese does not need to distinguish between singular and plural. Without explicitly adding special pluralizer words, only context will tell you if something is singular or plural. Sometimes, however, you may want to make it clear you're talking about a plural. In this case, you can use special suffixes. One of such suffixes is 達. It can be applied to pronouns and nouns and it is used to refer to the entire group the noun/pronoun belongs to. 
+Вот несколько примеров. Не затрудняйте себя зубрёжкой этого списка слов. Учите слова вне этого гайда.
 
 <pre>
-私達・わたしたち Us  
-ジム達・じむたち Jim and company  
-ペン達・ぺんたち The pen and stuff
+私・わたし я (нормальная форма, немного формальная когда её используют мужчины)  
+あたし я (разговорное, женственная)  
+俺・おれ я (разговорное, маскулинная)  
+僕・ぼく я (разговорное или вежливое, маскулинное)  
+彼・かれ он  
+彼女・かのじょ она  
+あなた ты
 </pre>
 
-達 is usually for living things, and the usage with "pen" above is considered colloquial, or at least informal. It just shows up enough to be worth mentioning.
-
-Japanese has compound words which work the same way as in English.
+Как упоминалось ранее, в японском не требуется разделение на единственное и множественное число. Если не добавлять специальные слова-"множители", определить, находится существительное в единственном или множественном числе можно только по контексте. Иногда, однако, вым возможно нужно будет отдельно обговорить, что речь идёт о множественном числе. В этом случае, вы можете использовать специальные суффиксы. Один из таких суффиксов это 達. Он может применяться к местоимениям и существительным, и используется чтобы обозначить целую группу, которую описывает существительное или местоимение.
 
 <pre>
-町・まち town, district  
-中・なか inside, middle  
-町中・まちなか downtown, the middle of town
+私達・わたしたち Мы  
+ジム達・じむたち Джим и компания  
+ペン達・ぺんたち Ручка и прочее
 </pre>
 
-Japanese has prefixes and suffixes just like English. These are different from compound words because they can't exist as their own standalone words and must be attached to something.
+達 обычно используется для одушевлённых объектов, и его использование с "ручкой" считается устаревшим, или по крайней мере неформальным. Просто такое использование встречается достаточно часто, чтобы о нём упомянуть.
+
+В японском есть составные слова, работающие примерно так же, как в русском.
 
 <pre>
-研究・けんきゅう research  
-研究者・けんきゅうしゃ researcher
+町・まち город, квартал 
+中・なか внутренняя часть, середина  
+町中・まちなか город, улицы города
 </pre>
 
-者, pronounced しゃ here, is a suffix. It can act like a piece of a compound word, but can't stand on its own as its own word. When 者 appears on its own in a sentence, it's a different word, and not pronounced しゃ. *Thanks, kanji*.
+В японском есть префиксы и суффиксы так же, как в русском. Они отличаются от состанвых слов, потому что они не могут существовать как отдельные слова и обязательно должны присоединяться к чему-то.
 
-Some words can have multiple ways they can be read. 明日, meaning "tomorrow", is normally read as あした, but can also be read あす (formal, not rare) or みょうにち (even more formal, much more rare). Watch out for reading variation when you start reading, or you'll be super confused.  
+<pre>
+研究・けんきゅう исследование  
+研究者・けんきゅうしゃ исследователь
+</pre>
+
+者, которое здесь произносится как しゃ, это суффикс. Он может использоваться как часть составного слова, но не может использоваться как отдельное слово. Когда 者 встречается в предложении отдельно, это не то же самое слово, и оно не произносится как しゃ. *Спасибо, кандзи*.
+
+Некоторые слова могут иметь несколько возможных прочтений. 明日, обозначающее "завтра", обычно читается как あした, но иногда может читаться как あす (формальное, но не редкое) или みょうにち (ещё более формальное и ещё более редкое). Следите за разными вариантами прочтения, когда начнётся читать тексты на японском, иначе вы можете сильно запутаться.
