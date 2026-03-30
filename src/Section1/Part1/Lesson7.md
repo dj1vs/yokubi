@@ -1,19 +1,19 @@
-# Negated verbs
+# Отрицание глаголов
 
-When you want to turn an ichidan verb into a negative verb, you just cut off the る at the end of the simple tense and add ない.
+Когда вы хотите образовать отрицательную форму глагола ичидан, вам нужно просто убрать る в коннце его простой формы и добавить ない.
 
-For godan verbs, you turn the ending "u" sound into an "a" sound, with one exception.
+Для глаголов годан, нужно превратить последний звук "у" в звук "а", с одним исключением.
 
-These examples are for illustration. You should not memorize them, just understand them for now and move on.
+Данные примеры приведены только для иллюстрации. Вы не должны их запоминать, просто осознайте правило и двигайтесь дальше.
 
-Ichidan: Drop る, add ない
+Ичидан: убрать る, добавить ない
 
 | Plain | Negative |
 |-------|----------|
 |見る   | 見ない   | 
 |食べる | 食べない |
 
-Godan: Replace "u" with "a", then add ない
+Годан: Заменить "u" на "a", потом добавить ない
 
 | Plain | Negative |
 |-------|----------|
@@ -22,4 +22,5 @@ Godan: Replace "u" with "a", then add ない
 |書**く** | 書**か**ない| 
 |買**う** | 買**わ**ない| 
 
-For godan verbs ending in う, the negative uses わない, not あない. This is that one exception mentioned earlier.
+
+Дла годан-глаголов, кончающихся на う, в отрицательной форме используется わない, не あない. Это и есть то самое исключение, о котором упоминалось ранее.
