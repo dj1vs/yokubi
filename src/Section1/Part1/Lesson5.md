@@ -1,41 +1,41 @@
-# Possession and attributes with の
+# Владение и атрибуты с помощью の
 
-の is a particle. It's a possessive marker and an attributive marker. "Attributive" here means that something is an attribute of something else, like an attribute in a video game, like the "flame" in "flame sword". The relationship is always straightforward.
+の - это частица. Это притяжательный и атрибутивный маркер. "Атрибутивный" здесь значит, что что-то является атрибутом чего-то ещё, как, например, атрибут в видеоигре, или как "огонь" в "огненном мече". Связь всегда прямая.
 
 <pre>
 私<b>の</b>ネコ
-My cat
+Мой кот.
 
 君<b>の</b>X
-Your X.
+Твой X.
 
 ネコ<b>の</b>先
-Ahead of the cat
+Впереди кота.
 
 男<b>の</b>子
-Boy (metaphorically, male child)
+Мальчик (метафорически, мужчина-ребёнок).
 </pre>
 
-If you get lost, the easiest way to remember の is: It's like "of", but it applies backwards.
+Если вы запутаетесь, самый простой способ запомнить частицу の следующий: можно задать от второго слова к первому вопрос "чего?".
 
 <pre>
 夜<b>の</b>人
-Person of the night
+Человек - чего? - ночи -> ночной человек.
 </pre>
 
-Sometimes "of" gets confusing, and you have to remember the idea of "attribute".
+Но иногда такое правило может запутать, так что лучше запомнить отношения с ролью "атрибута".
 
 <pre>
 夜<b>の</b>海   
-The night sea
+Ночное море.
 
 海<b>の</b>夜   
-Night on the sea (NOT "night of the sea")
+Ночь в море (НЕ "морская ночь").
 </pre>
 
-の is literally the single most common word in all of japanese, so make sure you remember it well!
+の - это буквально самое часто слово во всём японском языке, так что убедитесь, что вы его хорошо запомнили!
 
 <pre>
 彼女<b>の</b>子供<b>の</b>名前だ。
-It is her child's name.
+Это имя её ребёнка.
 </pre>

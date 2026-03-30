@@ -1,34 +1,34 @@
-# Verbs
+# Глаголы
 
-Japanese has both regular and irregular verbs (動詞). However, unlike English and its plethora of irregular verb conjugations ("read" \-\> "read", "speak" \-\> "spoke", etc), the majority of Japanese verbs are regular and follow a very strict set of pattern rules.
+В японском языке есть как правильные, так и неправильные глаголы (動詞). Однако, в отличие от, например, английского языка, с его множеством неправильных глаголов и их спряжений ("read" \-\> "read", "speak" \-\> "spoke" и т.д.), большинство глаголов в японском языке - правильные, и следуют строгому ряду правил.
 
-Japanese has two main categories of regular verbs: ichidan (一段) and godan (五段) and they conjugate differently. Ichidan means "one row" and godan means "five rows". This terminology is important to understand how they conjugate. The "rows" refer to the kana syllabary table (五十音図), but you don't need to memorize this.
+В японском есть 2 основные категории правильных глаголов: ичидан (一段) и годан (五段), которые по-разному спрягаются. Ичидан можно перевести как "один ряд", а годан -  "пять рядов". Эта терминология важна для понимания того, как эти глаголы спрягаются. "Ряды" отсылают к таблице японской слоговой азбуки каны (五十音図), но запоминать это не обязательно.
 
-Here's an example, using a ます (polite) form that we'll learn properly in [Lesson 17](./Lesson17.md). Don't bother memorizing this list.
+Вот пример, составленный с использованием ます (вежливой) формы, которую мы подробно рассмотрим в [Уроке 17](./Lesson17.md). Но не нужно пытаться запомнить весь этот список.
 
 <pre>
-見<b>る</b>／見ます, ichidan verb.
-切<b>る</b>／切<b>り</b>ます, godan verb, ending in る.
-買<b>う</b>／買<b>い</b>ます, godan verb, ending in う.
-死<b>ぬ</b>／死<b>に</b>ます, godan verb, ending in ぬ.
+見<b>る</b>／見ます, ичидан глагол.
+切<b>る</b>／切<b>り</b>ます, годан глагол, кончается на る.
+買<b>う</b>／買<b>い</b>ます, годан глагол, кончается на う.
+死<b>ぬ</b>／死<b>に</b>ます, годан глагол, кончается на ぬ.
 </pre>
 
-Ichidan verbs always end in る, and just drop the る when they conjugate. The stuff leading up to that る is the verb's basic identity, and isn't changed. You can call it the "stem" of the verb. The verb itself, aside from the conjugation, has only "one form".
+Ичидан глаголы обычно заканчиваются на る, и просто отбрасывают る при спряжении. Всё то, что идёт перед る - это основная часть глагола, и она не меняется. Вы можете называть это "основой" глагола. Сам глагол, не считая разные спряжения, имеет только "одну форму".
 
-Godan verbs can end in one of several syllables, not just る. In the dictionary form, this syllable always ends in a u-sounding vowel, and different conjugations can change it to any of the other four vowels. This means that it can have any of five different vowels at the end. In other words, "five forms" or stems.
+Годан глаголы могут заканчиваться на один из нескольких слогов, не только る. В словарной форме этот слог всегда кончается на гласную, звучащую как у, и разные спряжения могут изменить его на каждый из четырёх других гласных. Это значит, что глагол может иметь на конце один из любых пяти гласных. Другими словами, "пять форм", или основ.
 
-Godan verbs in the dictionary form can end in one of several different syllables, but it always ends in the (romaji) vowel "u". The following example verbs are all godan. 
+Годан глаголы в словарной форме могут заканчиваться на один из нескольких разных гласных, но в записи кириллицей они всегда заканчиваются на гласную "у". В следующем примере все глаголы - годан.
 
 <pre>
 切る	殺す	死ぬ	選ぶ	読む	買う	動く	急ぐ	持つ
 </pre>
 
-Ichidan verbs always end in る
+Ичидан глаголы всегда заканчиваются на る
 
 <pre>
 食べる	負ける	変える
 </pre>
 
-Japanese verb conjugation likes to pile words together, and you end up with long strings of verbs like 見られたくなかった. In future lessons, we start learning the logic behind these long piles of conjugations. It will become easier and easier to break them down the longer you get exposed to the language so don't worry about it.
+В японском при спряжении глаголов слова часто "наслаиваются" друг на друга, и после этого у вас получается длинная строка с глаголами по типу 見られたくなかった. В будущих занятиях мы начнём изучать логику, по которой строятся эти длинные спряжения. Будет становиться всё проще и проще разбивать их на части по мере того, как вы будете больше погружаться в язык, так что не стоит об этом волноваться.
 
-This lesson is just establishing the basics needed to understand what we're going to look at in later lessons.
+В этом уроке только устанавливается необходимый минимум для понимания того, с чем мы будем работать в дальнейшем.
