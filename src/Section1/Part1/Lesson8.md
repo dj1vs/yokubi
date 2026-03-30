@@ -1,81 +1,81 @@
-# い-adjectives
+# い-прилагательные
 
-Japanese has two main categories of adjectives. Don't worry, they are not as complicated as the ones for verbs. It's actually quite straightforward. 
+В японском есть две основные категории прилагательных. Не беспокойтесь, они не такие сложные, как две категории у глаголов. С прилагательными это на самом деле довольно прямолинейно.
 
-These two categories are い-adjectives (形容詞) and な-adjectives (形容動詞). 
+Эти две категории - это い-прилагательные (形容詞) и な-прилагательные (形容動詞). 
 
-い-adjectives act similar to verbs and can conjugate. な-adjectives on the other hand act like nouns (and they often can also be used as nouns). We'll cover な-adjectives later.
+い-прилагательные ведут себя почти как глаголы и могут спрягаться. な-прилагательные, с другой стороны, ведут себя как существительные (и зачастую они могут использоваться как существительные). Мы рассмотрим な-прилагательные позже.
 
-Here's an example of an い-adjective in practice.
+Вот пример い-прилагательного на практике.
 
 <pre>
 <b>赤い</b>火
-Red fire
+Красный огонь
 </pre>
 
-The reason why い-adjectives are similar to verbs is because they can conjugate. 
+Причина, по которой い-прилагательные похожи на глаголы - это то, что они могут спрягаться.
 
-To say some noun is/has some quality using い-adjectives, you can just make an "A is B" type of sentence with the adjective directly like this:
+Чтобы сказать, что какое-то существительное обладает какой-то характеристикой, используя い-прилагательное. вы можете просто использовать структуру предложения "A есть B" с прилагательным прямо вот так:
 
 <pre>
 火が赤い
-The fire is red.
+Огонь - красный.
 </pre>
 
-You **must not** add だ after it:
+Вам **не нужно** добавлять だ после этого:
 
 <pre>
 *火が赤いだ
 </pre>
 
-This is **very** wrong and not worth providing a translation.
+Это **очень** неправильно и не стоит отдельного перевода.
 
-However, attaching です is okay here, but it doesn't have the role of a copula in this usage. It just adds politeness and doesn't carry any meaning whatsoever. This is the first major way that だ and です are different. When it's not attached to a noun, です is just a politeness marker.
+Тем не менее, добавление です здесь является корректным, но при таком использовании оно не будет играть роль связки. Оно просто добавляет вежливости и не несёт вообще никакого смысла. Это первое значительное различие между だ и です. Когда оно не присоединяется к существительным, です - это просто обозначение вежливости.
 
 <pre>
 火が赤い
-The fire is red
+Огонь - красный.
 
 火が赤い<b>です</b>
-The fire is red (polite)
+Огонь - красный (вежливо)
 </pre>
 
-Beyond です, There can also be some other constructions that put だ after an い-adjective, but they are specific set expressions. Don't be surprised if you see them, but don't worry about it now.
+Кроме です, существуют и другие конструкции, в которых だ употребляется после い-прилагательного, но это выражения из особой отдельной категории. Не удивляйтесь, если вы с ними встретитесь, но не стоит сейчас по этому поводу переживать.
 
-Like with verbs, you can also conjugate い-adjectives. You can replace い with かった or くない to attach a past or negative conjugation:
+Как и с глаголами, вы можете спрягать い-прилагательные. Вы можете заменить い на かった или くない, чтобы проспрягать прилагательное к форме прошедшего времени или к отрицательной форме:
 
 <pre>
 火が赤<b>かった</b>
-The fire <b>was</b> red.
+Огонь <b>был</b> красным.
 
 火が赤<b>くない</b>
-The fire is <b>not</b> red.
+Огонь <b>не</b> красный.
 
 火が赤<b>くなかった</b>
-The fire <b>was not</b> red.
+Огонь <b>не был</b> красным.
 </pre>
 
-The adjective いい is an exception and it becomes よい \-\> よかった / よくない.
+Прилагательные いい - исключение, и становится よい \-\> よかった / よくない.
 
-Since the ない in verbs also behaves as an い-adjective, you can conjugate it like one and continue the chain of conjugations that makes it possible to build the long strings of verbs we mentioned earlier.
+Так как ない в глаголах также ведёт себя как い-прилагательное, вы можете спрягать его как прилагательное и продолжать цепочку спряжений, что делает возможные составлять те длинные строки из глаголов, которые мы упоминались ранее. 
 
 <pre>
 見<b>る</b>
-to see (ichidan plain form)
+видеть (ичидан, словарная форма)
 
 見<b>ない</b>
-to not see (negative)
+не видеть (отрицание)
 
 見<b>なかった</b>
-did not see (negative, past)
+не видел (отрицание, прошедшее)
 </pre>
 
-Adjectives can be turned into abstract nouns by replacing the い with さ. There are more ways to do this, but さ is by far the most common.
+Прилагательные также могут превращаться в абстрактные существительные заменой い на さ. Существуют и другие способы как это сделать, но さ это с большим перевесом самый частый из них.
 
 <pre>
 大き<b>い</b>
-large/big (adj)
+большой, крупный (прилагательное)
 
 大き<b>さ</b>
-size/largeness (noun)
+размер/величина (существительное)
 </pre>
