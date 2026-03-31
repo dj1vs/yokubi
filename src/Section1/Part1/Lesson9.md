@@ -1,61 +1,61 @@
-# Past verbs
+# Глаголы в форме прошедшего времени
 
-You form the past tense of a verb by attaching た or だ to a specific "stem".
+Вы образовываете форму прошедшего времени для глаголов добавлением た or だ к особой "основе глагола".
 
-Stems are important for godan verbs because godan verbs have many stems and often present irregularities.
+Основы глаголов важны для годан-глаголов, потому что годан-глаголы имеют много основных форм и зачастую непостоянны.
 
-90% of the time, you only use three stems. Here's an example:
+В 90% случаев, вы используете только 3 основы. Вот пример:
 
-| Plain form | "a" form | "i" form |
-|------------|----------|----------|
-| 殺す       | 殺さ     | 殺し     |
-| 死ぬ       | 死な     | 死に/死ん|
-| 書く       | 書か     | 書き/書い|
+| Словарная форма | "а" форма | "и" форма |
+|-----------------|-----------|-----------|
+| 殺す            | 殺さ      | 殺し       |
+| 死ぬ            | 死な      | 死に/死ん  |
+| 書く            | 書か      | 書き/書い  |
 
-Note: "a" form and "i" form aren't real terms, it's just an example to show the sound vowel these stem end as. We don't need to know the Japanese linguistic names of these forms now, but you can look them up if you want. 
+Замечание: "а" форма и "и" форма - это не настоящие термины, это просто пример, чтобы показать, на какой звук заканчиваются эти основы. Вам не нужно знать лингвистические термины японского языка для этих форм сейчас, но при особом желании вы можете найти их.
 
-Here's an example of these stems in use:
+Вот пример испольвования этих форм:
 
 <pre>
 殺<b>す</b>
-He kills
+Он убивает
 
 殺<b>さ</b>ない
-He doesn't kill
+Он не убивает
 
 殺<b>し</b>た
-He killed
+Он убил
 </pre>
 
-That's right. Basic stuff like tense and negation uses only three stems. There are more stems, but they show up less often. We'll cover them later.
+Всё так. Базовые вещи, такие как времена и отрицание, используют только три основы. Существуют и другие основы, но они встречаются намного менее часто. Мы расскажем о них позже.
 
-With that out of the way, we can introduce the past tense properly. We've seen the past tense forms of だ and です already, which are だった and でした. We also saw 殺した in the stem example above.
+Теперь, когда с этим мы разобрались, мы можем представить прошедшее время нормально. Мы уже видели формы прошедшего времени для だ и です: だった and でした. Мы также видели 殺した в примере с основами выше.
 
-You'd be right to assume that the た is what makes it the past tense. The hard part is that the stem for the past tense of godan verbs isn't as regular as the stem for the negative form. It depends on the original syllable ending of the plain form. Here are all possibilities:
+Будет логично предположить, что именно た создаёт форму прошедшего времени. Сложная часть - это основа для прошедшего времени годан-глаголов, которая не такая же постоянная, как основа для отрицательной формы. Это зависит от гласного, на который заканчивается словарная форма. Вот все возможные сценарии:
 
 <pre>
 切<b>る</b>	殺<b>す</b>	死<b>ぬ</b>	選<b>ぶ</b>	読<b>む</b>	買<b>う</b>	動<b>く</b>	急<b>ぐ</b>	持<b>つ</b>
 切<b>った</b>	殺<b>した</b>	死<b>んだ</b>	選<b>んだ</b>	読<b>んだ</b>	買<b>った</b>	動<b>いた</b>	急<b>いだ</b>	持<b>った</b>
 </pre>
 
-Don't memorize this table. There are some rules based on what kana row the verb belongs to:
+Не нужно запоминать эту таблицу. Есть некоторые правила, которые основываются на том, к какому столбцу кан принадлежит глагол:
 
-- う, つ, or る become った
-- す becomes した
-- ぶ, む, or ぬ become んだ
-- く and ぐ become respectively いた and いだ
+- う, つ, или る становится った
+- す становится した
+- ぶ, む, или ぬ становится んだ
+- く и ぐ становятся соответственно いた и いだ
 
-There are also a couple of verbs with a funny irregular conjugation, for example 問う becomes 問うた. There are only a few of them that behave like this (乞う \-\> 乞うた being another one). You don't need to memorize these, just be aware they exist, they are not very common.
+Также есть несколько глаголов с забаывными неправильными спряжениями, например 問う становится. Глаголов, которые ведут себя так, относительно немного (другим примером может быть 乞う \-\> 乞うた). Вам не нужно запоминать их всех, просто держите в уме, что они существуют, они не так часто встречаются.
 
-Japanese speakers don't go through this mental process whenever they conjugate something. This process is second nature to them. At the very least, if you do a little reading and listening in Japanese, you will be able to recognize the past tense at a glance. Exposure is more powerful than memorization.
+Носители японского языка не делают все эти действия в голове, когда им нужно проспрягать что-то. Этот процесс для них естественнен. В самом крайнем случае, если вы будете немного читать и слушать на японском, вы научитесь распознавать форму прошедшего времени с первого взгляда. Погружение в язык намного более сильный инструмент, чем зубрёжка.
 
-The past tense of ichidan verbs is easy. Just replace the る with a た.
+Форма прошедшего времени для ичидан-глаголов формируется просто. Достаточно заменить る на た.
 
-| Non-past | Past        |
-|----------|-------------|
-|見**る**  | 見**た**    |
-|食べ**る** | 食べ**た** |
+| Непрошедшее | Прошедшее   |
+|-------------|-------------|
+|見**る**     | 見**た**     |
+|食べ**る**   | 食べ**た**   |
 
-We will learn another use of this stem, in Lesson 12.
+Мы узнаем о другом использовании этой основы в Уроке 12.
 
-The rules of verb conjugations are more complicated than this, but take this one step at a time.  
+Правила спряжения глаголов на самом деле сложнее, но стоит обучаться этому шаг за шагом.
