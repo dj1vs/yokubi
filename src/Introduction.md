@@ -1,19 +1,19 @@
 ![logo](images/logo.svg)
 
-Welcome to **Yokubi**!
+Добро пожаловать в **Yokubi**!
 
 The **Common** Grammar Guide.
 
-*Dedicated to all those who learn, want to learn, and **will** learn.* 
+*Посвящено всем тем кто учится, кто хочется учиться, и кто **будет** учиться.*
 
 <div class="warning">
-This guide is a complete re-write and re-arrangement of <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>. The full rewrite is <b>still not finished</b>, but the main content and guide are done.
+Этот гайд - переписанная и перепланированная с нуля версия <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>. Переписывание <b>всё ещё не закончено</b>, но основной контент и гайд готовы.  
 </div>
 
-Yokubi is an **open** and **community-maintained** project. We accept all kinds of helpful contributions. 
+Yokubi - это **открытый** **поддерживаемый сообществом** проект. Мы принимаем любой полезный вклад.
 
-You are welcome to join our [discord community](https://discord.gg/KZj4dVFDzu) for feedback, comments, reviews, or just to chat. 
+Вступайте в наше [Discord-сообщество](https://discord.gg/KZj4dVFDzu) для обратной связи, комментариев, обзоров, или просто чтобы поговорить. 
 
-If you want to contribute, you can view the project [on github](https://github.com/Morgawr/yokubi) and file issues and pull requests. 
+Если вы хотите внести вклад, вы можете открыть проект [на гитхабе](https://github.com/Morgawr/yokubi), где можно создавать issue и пул-реквесты.
 
-**DO NOT** skip reading the [Before you begin](./Before-you-begin.md) and [Preamble](./Preamble.md) pages. They give you instructions on how to use this guide.
+**НЕ ПРОПУСКАЙТЕ** разделы [Прежде чем вы начнёте](./Before-you-begin.md) и [Преамбула](./Preamble.md). В них описаны инструкции по использованию этого гайда.
