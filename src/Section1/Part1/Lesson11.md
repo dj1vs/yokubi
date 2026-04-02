@@ -1,55 +1,57 @@
-# The て form as auxiliary and giving verbs
+# て-форма как вспомогательные и дающие глаголы
 
-On top of just connecting two statements into a single sentence, the て form can also act as an auxiliary. When \<verb1\>て\<verb2\> is used this way, the second verb modifies the core meaning of the first. Usually the second verb has an abstract and often purely grammatical meaning. 
+Вдобавок к простому соединению двух утверждений в одно предложение, глагол в て-форме также может играть роль вспомогательного глагола. Когда \<verb1\>て\<verb2\> так используется, второй глагол изменяет ключевое значение первого глагола. Обычно второй глагол передаёт абстрактное или часто чисто грамматическое значение.
 
 <pre>
 殺し<b>てあげる</b>
-I'll do you the favor of killing you
+Я окажу тебе услугу и убью тебя
 </pre>
 
-In this example, the verb あげる attaches to the て form of 殺す. あげる has a few meanings, two of them being "to raise (something)" and "to give (something to someone)". Because it is used in this pattern, it assumes the meaning of "giving" the action 殺す to someone else. It can have the nuance of doing it as some kind of favor, sometimes ironically or sarcastically (as in the example above).
+В этом примере, глагол あげる присоединятеся к て-форме 殺す. У あげる есть несколько значений, два из которых - это "подпимать (что-то)" и "давать (что-то кому-то)". Так как он используется в таком паттерне, предполагается значение "передачи" действия 殺す кому-то другому. Может подразумеваться смысл оказывания услуги, иногда иронично или с сарказмом (как в примере выше).
 
 <pre>
 助け<b>てもらう</b>
-To receive help (directed towards yourself)
+Получить помощь (в отношении себя)
 </pre>
 
-Here, the "receive" word, もらう, attaches to 助ける. This addition of てもらう can have a nuance of gratefulness as the subject receives some kind of favor. However, this is not only what is happening here. The phrase 私が助ける means that subject 私 is the one that performs the action of "saving/helping" (someone else). However, the phrase 私が助けてもらう marks the subject 私 as the one that receives the action of being helped. The **XてY** pattern isn't just attaching the verb Y to an earlier statement, it can make a whole new verb phrase, with different grammar and meaning.
+Здесь, слово "получить", もらう, присоединяется к 助ける. Это добавление てもらう может иметь смысл благодарности, так как субъекту оказывают какого-то рода услугу. Тем не менее, это не всё, что здесь происходит. Фраза 私が助ける означает, что субъект 私 - это тот, кто совершает действие "спасения/помощи" (кого-то другого). Но фраза 私が助けてもらう помечает субъект 私 как того, на кого направлено действие помощи. Паттерн **XてY** не просто присоединяет глагол Y к предыдущему утверждению, он ещё и может создать целую новую глагольную фразу, с отдельной грамматикой и значением.
 
-This usage of て auxiliary can be very powerful, and it is at the core of what makes some of these grammatical structures so typically Japanese that are often hard to translate into English.
+Использование вспомогательной て-формы может быть очень полезным, и это то, что делает некоторые из этих грамматических структур такими типично-японскими, и из-за этого трудно переводимыми на русский.
 
-On top of てあげる and てもらう there is also a third verb, てくれる which completes the giving/receiving "circle":
+Вдобавок к てあげる и  てもらう также есть третий глагол, てくれる, который завершает "круг" передачи/получения:
 
 <pre>
 &lt;verb&gt;てあげる
-You/Someone does the favor of &lt;verb&gt; towards someone else
+Вы/кто-то оказывает услугу в виде &lt;глагол&gt; в сторону кого-то ещё
 
 &lt;verb&gt;てもらう
-You receive the favor of &lt;verb&gt; from someone else
+Вы получаете услугу в виде &lt;глагол&gt; от кого-то ещё
 
 &lt;verb&gt;てくれる
-Someone else does the favor of &lt;verb&gt; towards you
+Кто-то другой оказывает вам услугу в виде &lt;глагол&gt;
 </pre>
 
-It is important to keep in mind the difference between the "outside" group and the "inside" group, but it is too complicated to go over it right now. Just remember that てもらう is almost always used with **you** as the subject, and you receive a favor from **someone else**. Likewise, in the opposite direction, てくれる has **someone else** as subject and they do a favor **towards you** the recipient. Note the particles in the following examples:
+Важно держать в уме различия между "внешней" группой и "внутренней" группой, но это слишком сложно, чтобы обсуждать сейчас. Просто запомните, что てもらう всегда используется, когда субъект - это **вы**, и вы получаете услугу от **кого-то другого**. Аналогично, в другую сторону, для てくれる субъект - это **кто-то ещё**, который оказывает услугу **вам** как получателю. Обратите внимание на частицы в следующем примере: 
 
 <pre>
 (私<b>が</b>)父<b>に</b>教えてもらった
-(I) was taught <b>by</b> my father.
+(Я) был обучен <b>(кем?)</b> моим отцом.
 
 父が(私<b>に</b>)教えてくれた
-My father taught (me)
+Мой отец научил (меня)
 </pre>
 
-The parts in parenthesis are often dropped or removed because just by using てくれる and てもらう, Japanese can imply a "direction" of the verb which makes it obvious whether the action is towards you or not. In English we say "He taught **me**" but in Japanese we say "彼が教えてくれた". The "me" part is implied in てくれる. 
+Части в скобках зачастую опускаются, потому что используя てくれる и てもらう, японци могут подразумевать "направление" глагола, которое делает очевидным то, делается ли действие по отношению к вам или к кому-то ещё. По-русски мы говорим: "Он научил **меня**", но по-японски мы говорим: "彼が教えてくれた". Часть "я" подразумевается в てくれる.
 
-We will later see other usages of て auxiliary to add a sense of directionality to phrases like ていく and てくる. 
+Далее мы увидим и другие примеры использования вспомогательной て-формы для придания значения направленности фразам по типу ていく и てくる. 
 
-For verbs and adjectives in ない form, there is another version of the て form that is often used with an "auxiliary" nuance. In this form, rather than なくて, it becomes ないで instead.
+Для глаголов и прилагательных в ない-форме. существует другая версия て-формы, которая часто используется с оттенком "вспомогательности". В этой форме, в отличие от なくて, используется ないで.
 
 <pre>
 食べないで待つ
-To wait while not eating
+Ждать до того, как он прекратит есть
 </pre>
+
+Здесь, 食べないで - это вспомогательная て-форма 食べない и может использоваться чтобы описать следующий глагол (待つ). Она ведёт себя примерно 
 
 Here, 食べないで is the て auxiliary of 食べない and can be used to describe the following verb (待つ). It acts somewhat adverbially to add additional meaning and context to the last verb in the chain. We will see more examples of ないで in later lessons, just be aware it exists for now.   
