@@ -1,58 +1,58 @@
-# Soft requests with てください and the imperative form
+# Мягкие просьбы с てください и императивной формой
 
-The て form can also be used to make a simple command or order. When we add ください after the て form, we are politely asking someone to do something (for us), effectively giving them an order. This usage is so common that the ください part can be completely omitted and still maintain an imperative sense to the statement. Dropping ください makes it more casual and can come across as more direct (potentially rude).
+て-форма также может использоваться чтобы сформулировать простую команду или приказ. Когда мы добавляем ください после て-формы, мы вежливо просим кого-то что-то сделать (для нас), по сути давая им команду. Это используется настолько повсеместно, что часть ください может быть полностью опущена, и при этом императивный смысл предложения всё равно будет сохранён. Отбрасывание ください делает предложение более неформальным и может восприниматься как более прямолинейная просьба (потенциально грубо).
 
 <pre>
 野菜を食べ<b>てください</b>
-Please eat your veggies
+Пожалуйста, ешьте овощи
 
 食べ<b>て</b>、少年
-Eat, boy.
+Ешь, мальчик
 
 見<b>て</b>！
-Look!
+Смотри!
 </pre>
 
-It can also be used with negative verbs in the form of ないでください to express a soft prohibition or negative request. 
+Это такэе может быть использовано с отрицаниями глаголов в форме ないでください чтобы передать мягкий запрет или отрицательную просьбу.
 
 <pre>
 バカなことを言わない<b>でください</b>
-Don't say stupid things, please
+Не говори глупые вещи, пожалуйста.
 
 食べ<b>ないで</b>
-Please don't eat.
+Не ешьте, пожалуйста.
 </pre>
 
-ください can also be used as standalone verb, rather than an auxiliary. In this case, it means "please give me". You can use it to order stuff in shops.
+ください также может использоваться как отдельный глагол, а не как вспомогательный. В этом случае, он означает "пожалуйста дайте мне". Вы можете использовать его, когда просите что-то в магазине.
 
 <pre>
 肉まんを<b>ください</b>
-Please give me a nikuman
+Дайте мне, пожалуйста, никуман
 </pre>
 
-It is worth noting there are other ways to make orders and imperative commands in Japanese. The て(ください) form is rather weak and fairly soft order. It's closer to a polite request rather than a straight up command. 
+Стоит отдельно сказать, что существуют и другие способы выражать просьбы и императивные команды в японском. Форма て(ください) довольно слабая и передаёт немного мягкую просьбу. Это ближе к вежливой просьбе, чем к прямолинейной конкретной команде.
 
-This brings us to the fourth common verb stem, the imperative form. This is a "true" imperative form, rather than the simple request made by using てください alone. Be aware that the imperative form often sounds rude. 
+Это приводит нас к четвёртой общей основе глагола, императивной форме. Это - "настоящая" императивная форма, по сравнению с простой просьбой, выражаемой только через てください. Имейте ввиду, что императивная форма зачастую звучит грубо.
 
-You make the imperative of ichidan verbs with ろ, and of godan verbs by replacing the u sound with the e sound.
+Вы можете выразить императивную форму у ичидан-глаголов с помощью ろ, и у годан-глаголов заменой звука "у" на звук "э".
 
 <pre>
 見<b>ろ</b>！
-Look!
+Смотри!
 
 殺<b>せ</b>
-Kill!
+Убей!
 
 切<b>れ</b>
-Cut!
+Режь!
 
 買<b>え</b>
-Buy!
+Купи!
 </pre>
 
-There is also an alternative imperative for ichidan verbs, but you can ignore it for now. It sounds archaic and pompous. Just remember that it exists:
+Также существует альтернативная императивная форма для ичидан-глаголов, но вы пока можете её пропустить. Она звучит архаично и помпезно. Просто помните, что она существует:
 
 <pre>
 食べ<b>よ</b>！
-Eat!
+Ешь!
 </pre>

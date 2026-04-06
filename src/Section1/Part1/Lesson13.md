@@ -1,49 +1,49 @@
-# The で particle, では and じゃ
+# Частица で, では и じゃ
 
-Normally, で marks the "circumstance" or "means" behind an action, or the "location" where such action occurs. 
+Обычно, で обозначает "обстоятельства" или "средства", относящиеся к действию, или "место" в котором это действие происходит.
 
 <pre>
 刀<b>で</b>殺した
-He killed <b>with</b> a katana
+Он убил <b>(чем?)</b> катаной
 
 バス<b>で</b>来た
-I came <b>by</b> bus
+Я приехал <b>на</b> автобусе
 
 学校<b>で</b>働く
-To work <b>in</b> a school
+Работать <b>в</b> школе
 
 金属<b>で</b>出来ている
-It is made <b>of</b> metal
+Это сделано <b>из</b> металла
 </pre>
 
-で originally comes from contracting the compound particle にて. You may still see にて in old fashioned or formal writing or announcements.
+で изначально появилось из сокращения составной частицы にて. Вы по-прежнему можете встретить にて в старомодных или формальных текстах или объявлениях.
 
-で can function like a て form of だ, acting on nouns as it does on verbs. In this usage, it assumes the typical conjunction usage of て form as with verbs or adjectives.
+で может также вести себя как て-форма связки だ, влияя на существительные так же, как она влияет на глаголы. При таком использовании, оно предполагает типичное составное использование て-формы как с глаголами или прилагательными.
 
 <pre>
 中学生<b>で</b>一人暮らしはできない
-To be a middle schooler <b>and</b> live alone is not possible
+Быть студентом средней школы <b>и</b> жить одному невозможно
 </pre>
 
-Sometimes distinguishing between the case marker で particle (location, means, etc.) and the て form of だ conjunction is not always clear. What matters, however, is that the meaning of the sentence should still be clear. You shouldn't worry about pinpointing the exact dictionary definition for each particle you see used in a sentence. If you understand the meaning, that's good enough.
+Иногда различия между частицей で (обозначающей место, средство и т.д.) и て-формой связки だ не всегда очевидны. Не нужно переживать о точном словарном определении каждой частицы, которую вы можете встретить в предложении. Если вам понятно значение, этого уже достаточно.
 
-This brings us to the compound particle では. The は here can be considered the topic marker, but the meaning of では together is more than just the sum of its parts. This particular usage of では highlights that the statement after では applies to the context and circumstances of the noun marked by では.
+Отсюда мы приходим к составной частице では. は здесь может восприниматься как метка темы, но значение では в целом - это немного больше, чем просто сумма её отдельных частей. Это конкретное использование では подчёркивает то, что предложение после では добавляет контекст и обстоятельства к существительному, отмеченному では.
 
 <pre>
 公園<b>では</b>アイスが売られる
-Ice cream is sold <b>at</b> the park.
+Мороженое продаётся <b>в</b> парке.
 </pre>
 
-This also extends to the state of being, as we already saw in [lesson 1](./Lesson1.md).
+Это также расширяет состояние бытия, как мы уже видели в [Уроке 1](./Lesson1.md).
 
 <pre>
 私は学生<b>では</b>ない
-I am not a student.
+Я не студент
 </pre>
 
-As a reminder, では is often contracted as じゃ. Some dialects may use different copulas from だ. Examples are や (often used in kansai dialect) and じゃ (often used by old men in fictional media to sound old fashioned). This じゃ is a contraction of something other than では. The usual では is not a copula.
+Как напоминание, では часто сокращается до じゃ. Некоторые диалекты могут использовать другие связки, отличные от だ. Примерами могут быть や (часто используется в кансайском диалекте) и じゃ (часто используется старыми мужчинами в литературе и кино, чтобы казаться более старомодными). Это じゃ - это сокращение от чего-то отличного от では. Обычное では - это не связка.
 
 <pre>
 ペンじゃ
-Tis a pen. (it's a pen.)
+Эт ручка. (это ручка.)
 </pre>
